@@ -16,3 +16,7 @@ plt.xlabel('Valor')
 plt.ylabel('Frequência')
 plt.title('Histograma')
 plt.show()
+
+test = np.random.rand(10)
+plt.plot(test, marker='o')  
+
