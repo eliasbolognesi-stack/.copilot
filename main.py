@@ -19,4 +19,5 @@ plt.show()
 
 test = np.random.rand(10)
 plt.plot(test, marker='o')  
-
+new_test = np.random.rand(10)
+plt.plot(new_test, marker='x')
