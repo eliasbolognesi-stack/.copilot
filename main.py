@@ -17,11 +17,5 @@ plt.ylabel('Frequência')
 plt.title('Histograma')
 plt.show()
 
-new_data = np.random.rand(100)
-plt.scatter(new_data, new_data + np.random.rand(100) * 0.5, alpha=0.5)
-plt.xlabel('X')
-plt.ylabel('Y')
-plt.title('Gráfico de Dispersão')
-plt.show()
 
 
