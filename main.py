@@ -16,3 +16,12 @@ plt.xlabel('Valor')
 plt.ylabel('Frequência')
 plt.title('Histograma')
 plt.show()
+
+data = np.random.randn(1000)
+
+plt.hist(data, bins=30, alpha=0.75, color='blue')
+plt.xlabel('Valor')
+plt.ylabel('Frequência')
+plt.title('Histograma')
+plt.show()
+
