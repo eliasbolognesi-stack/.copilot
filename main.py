@@ -20,6 +20,6 @@ plt.show()
 
 print("Gráfico de Box Plot e Histograma gerados com sucesso!")
 slice
-print("teste não esta conectando github")
+print("criando uma aplicação para resolver problemas da escola")
 
     
