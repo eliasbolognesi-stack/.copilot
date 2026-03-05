@@ -19,3 +19,5 @@ plt.show()
 
 
 print("Gráfico de Box Plot e Histograma gerados com sucesso!")
+value = input("Pressione Enter para sair...")
+value = float(input("Digite um número para calcular a raiz quadrada: "))
