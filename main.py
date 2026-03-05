@@ -19,3 +19,9 @@ plt.show()
 
 
 print("Gráfico de Box Plot e Histograma gerados com sucesso!")
+value = input("Pressione Enter para sair...")
+value = float(input("Digite um número para calcular a raiz quadrada: "))
+if value < 0:
+    print("Não é possível calcular a raiz quadrada de um número negativo.")
+else:
+    print(f"A raiz quadrada de {value} é {np.sqrt(value)}")
