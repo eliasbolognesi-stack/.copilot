@@ -18,4 +18,4 @@ plt.title('Histograma')
 plt.show()
 
 
-
+print("Gráfico de Box Plot e Histograma gerados com sucesso!")
