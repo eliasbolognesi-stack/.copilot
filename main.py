@@ -20,4 +20,6 @@ plt.show()
 
 print("Gráfico de Box Plot e Histograma gerados com sucesso!")
 slice
+print("teste vscode")
 
+    
